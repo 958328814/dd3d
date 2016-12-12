@@ -1,0 +1,6 @@
+111005 00:25:03  mysqld started
+111005  0:25:03 [Warning] option 'max_join_size': unsigned value 18446744073709551615 adjusted to 4294967295
+111005  0:25:03 [Warning] option 'max_join_size': unsigned value 18446744073709551615 adjusted to 4294967295
+111005  0:25:03 [ERROR] /usr/libexec/mysqld: unknown option '--skil-grant-tables'
+111005 00:25:03  mysqld ended
+
